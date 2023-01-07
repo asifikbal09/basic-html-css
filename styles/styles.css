@@ -104,3 +104,27 @@ line-height: 29px;
 font-size: 25px;
 color: #737272;
 }
+/* my plan styles */
+.gradian{
+    background-image: linear-gradient(to right, rgb(68, 0, 255), rgb(255, 0, 0, 0)), url(/images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    width: 1140px;
+    height: 300px;
+    margin: 100px auto 120px 180px;
+}
+.text-contain{
+   padding-top: 59px;
+   padding-left:64px ;
+}
+.positive{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+/* footer styles */
+.footer{
+    background-color: #151414;
+    width: 1600px;
+}
