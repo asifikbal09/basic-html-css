@@ -90,21 +90,21 @@ header{
 .plan-title{
     font-size: 30px;
     font-weight: 700;
-font-size: 30px;
-line-height: 35px;
-padding-right: 40px;
-padding-left: 40px;
-padding-top: 28px;
-padding-bottom: 16px;
+    font-size: 30px;
+    line-height: 35px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 28px;
+    padding-bottom: 16px;
 }
 .genarel-text{
     font-weight: 500;
-font-size: 25px;
-line-height: 29px;
-font-size: 25px;
-color: #737272;
+    font-size: 25px;
+    line-height: 29px;
+    font-size: 25px;
+    color: #737272;
 }
-/* my plan styles */
+
 .gradian{
     background-image: linear-gradient(to right, rgb(68, 0, 255), rgb(255, 0, 0, 0)), url(/images/watch.png);
     background-repeat: no-repeat;
@@ -127,4 +127,83 @@ color: #737272;
 .footer{
     background-color: #151414;
     width: 1600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    padding-top: 145px;
+}
+.f-left{
+    padding-right: 320px;
+    color: #FFFFFF;
+
+}
+.title-f{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    padding-bottom: 16px;
+}
+.description-f{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 24px;
+}
+.mail{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 16px;
+}
+.phn{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 32px;
+}
+
+.subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+#email{
+    height: 64px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    width: 325px;
+    background-color: #151414;
+    padding-left: 21px;
+   margin-bottom: 16px;
+}
+/* dream section */
+.dream{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 50px;
+}
+.flex{
+    display: flex;
+}
+.wish{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+.wish-define{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.blockchain{
+    padding-left: 100px;
 }
