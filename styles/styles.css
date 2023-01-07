@@ -8,30 +8,27 @@
 header{
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
-    height: 800px;   
+    height: 800px;
+    width: 1600px;   
 }
 .benner{
     text-align: right;
+    padding-right: 200px;
 }
 .benner-title {
     color:#FFFFFF;
     font-size: 65px;
     line-height: 75px;
-    width: 525px;
     padding-top: 218px;
     margin-bottom: 25px;
-    margin-left: auto;
-    margin-right: 230px;
+
 }
 .b-artical{
     color: #FFFFFF;
     font-style: normal;
     font-size: 16px;
     line-height: 26px;
-    width: 490px;
-    margin-bottom: 30px;
-    margin-right: 230px;
-    margin-left: auto;
+    margin-bottom: 30px; 
 }
 .btn{
     color: #005FAC;
@@ -41,7 +38,34 @@ header{
     padding: 20px 25px;
     border-radius: 5px;
     border: 0;
-    margin-right: 230px;
-    font-style: normal;
- 
+   font-weight:bolder
 }
+/* failures section */
+.failures-section{
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    padding: 100px 50px 100px 50px;
+    
+}
+
+.all-failures{
+    padding-right:320px ;
+    padding-left: 80px;
+
+}
+.failuer-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 24px;
+}
+.f-discription{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.failure-point{
+    padding-bottom: 16px;
+}
+/* my plan section */
