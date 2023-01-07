@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+   
+
+}
+/* banner styles */
+header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 800px;   
+}
+.benner{
+    text-align: right;
+}
+.benner-title {
+    color:#FFFFFF;
+    font-size: 65px;
+    line-height: 75px;
+    width: 525px;
+    padding-top: 218px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: 230px;
+}
+.b-artical{
+    color: #FFFFFF;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    width: 490px;
+    margin-bottom: 30px;
+    margin-right: 230px;
+    margin-left: auto;
+}
+.btn{
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 0;
+    margin-right: 230px;
+    font-style: normal;
+ 
+}
