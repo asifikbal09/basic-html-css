@@ -69,3 +69,38 @@ header{
     padding-bottom: 16px;
 }
 /* my plan section */
+.plan-section{
+    width: 1500px;
+}
+.plans{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 50px;
+}
+.all-plans{
+    display: flex;
+   text-align: center;
+   justify-content: center;
+}
+.plan-point{
+    justify-content: center;
+}
+.plan-title{
+    font-size: 30px;
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+padding-right: 40px;
+padding-left: 40px;
+padding-top: 28px;
+padding-bottom: 16px;
+}
+.genarel-text{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+font-size: 25px;
+color: #737272;
+}
